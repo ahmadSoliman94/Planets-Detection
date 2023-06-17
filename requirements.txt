@@ -4,3 +4,4 @@ seaborn
 matplotlib
 ultralytics
 tqdm
+streamlit
