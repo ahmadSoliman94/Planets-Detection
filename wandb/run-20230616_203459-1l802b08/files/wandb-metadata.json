@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.4.0-122-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-06-16T20:34:59.662630",
+    "startedAt": "2023-06-16T20:34:59.271924",
+    "docker": null,
+    "gpu": "NVIDIA A100-SXM4-80GB",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Wildlife-Object-Detection/model.ipynb",
+    "root": "/notebooks/Wildlife-Object-Detection",
+    "git": {
+        "remote": "https://github.com/ahmadSoliman94/Wildlife-Object-Detection.git",
+        "commit": "9f6ca7aa24f87ac8fc736a95c3b25c097a0f763b"
+    },
+    "email": null,
+    "host": "n4z78vaz20",
+    "username": "root",
+    "executable": "/usr/local/bin/python3"
+}

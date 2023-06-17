@@ -1,0 +1,19 @@
+names:
+- Earth
+- Jupiter
+- Mars
+- Mercury
+- Neptune
+- Saturn
+- Uranus
+- Venus
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: planet-detection
+  url: https://universe.roboflow.com/college-qcgpx/planet-detection/dataset/9
+  version: 9
+  workspace: college-qcgpx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
